@@ -1,2 +1,4 @@
 import numpy
-nasd 
+import geopandas
+
+!conda install geopandas
