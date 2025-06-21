@@ -1,4 +1,4 @@
 import numpy
 import geopandas
 
-!conda install geopandas
+print("numpy version:", numpy.__version__)  
